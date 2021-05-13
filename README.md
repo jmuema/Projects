@@ -1,6 +1,6 @@
 # Projects
 
-Here is a list of some of the projects I have done.
+Here is a list of some of the projects I have done. <br>
 Name: Netflix clone
 Link: https://netflix-clone-18725.firebaseapp.com/ 
 
