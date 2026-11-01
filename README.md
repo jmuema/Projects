@@ -42,13 +42,13 @@ Link: https://photography254.netlify.app/ <br>
 
 
 Name: Music Landing Page  <br>
-Link: https://musicc-landing.netlify.app/ <br>
+Link: (https://music-landing-ten.vercel.app/) <br>
 ![Screenshot 2021-05-13 at 13 28 02](https://user-images.githubusercontent.com/48582955/118113691-45879080-b3ef-11eb-9da3-92dad2a86505.png)
 
 <hr>
 
 Name: Admin Dashboard  <br>
-Link: https://admindash254.netlify.app/ <br>
+Link: (https://admin-dash-tau-six.vercel.app/) <br>
 ![Screenshot 2021-05-13 at 13 31 25](https://user-images.githubusercontent.com/48582955/118113902-8b445900-b3ef-11eb-8553-875302c8cc69.png)
 
 <hr>
